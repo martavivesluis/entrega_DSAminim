@@ -1,0 +1,2 @@
+segons el meu plantejament necessitarem primer de tot una taula que contingui les dades del usuari, una altre amb 
+les dades de cada producte i finalment una taula per a cada usuari amb les seves comandes.
